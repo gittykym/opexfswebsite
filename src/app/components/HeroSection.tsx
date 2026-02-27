@@ -1,6 +1,5 @@
 import { ArrowRight } from 'lucide-react';
-import heroBackground from 'figma:asset/2ba1dd8cb258af27567c8a2bab39b8062922d94e.png';
-
+import heroBackground from "../../assets/2ba1dd8cb258af27567c8a2bab39b8062922d94e.png";
 export function HeroSection() {
   return (
     <section id="home" className="relative min-h-screen flex items-center pt-16 md:pt-24">
