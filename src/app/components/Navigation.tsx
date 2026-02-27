@@ -1,5 +1,5 @@
 import { Phone, Menu, X } from 'lucide-react';
-import logoImage from 'figma:asset/39f5b53ea7a9b9cb6b710974e8b56ac2269c1836.png';
+import logoImage from '../../assets/39f5b53ea7a9b9cb6b710974e8b56ac2269c1836.png';
 import { useState } from 'react';
 
 export function Navigation() {
